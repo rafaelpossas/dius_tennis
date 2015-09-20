@@ -1,13 +1,13 @@
-# Stairathon
-## Pervasive Computing Unit of Study Project
+# Tennis Tournament Application
 
-A project to encourage people to use the stairs through fun and play
+Application built using NodeJS and operated entirely through console
 
-# Project Structure
+# Instrunctions
 
-The project consists of
+1. Install NPM (Node Package Manager) and NodeJS
+2. Install Grunt (npm install -g grunt grunt-cli)
+3. Install app dependencies (npm install)
+4. Run the Tests : grunt test
+5. Run the application: grunt run
 
-1. a hardware component (built using an Arduino Uno board and additional components),
-2. a web application (built on the MEAN stack)
 
-Files related to the hardware component (libraries, arduino sketches and fritzing schematics) are under the /arduino directory.
