@@ -2,7 +2,7 @@
 
 Application built using NodeJS and operated entirely through console
 
-# Instrunctions
+# How to run
 
 1. Install NPM (Node Package Manager) and NodeJS
 2. Install Grunt (npm install -g grunt grunt-cli)
